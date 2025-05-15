@@ -1,1 +1,3 @@
-# project2025
+# Web Yönetim Paneli
+
+React ile oluşturulmuş temel bir panel.
